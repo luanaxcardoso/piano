@@ -1,6 +1,4 @@
 # 🎹 Piano Virtual 
-# Pode tocar utilizando o mouse ou o teclado
-
 
 
 
